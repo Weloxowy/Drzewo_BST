@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1647186696 source:d:\c++\asdp\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1648567450 source:f:\codeblocks1\programiki\projekt aisd\asdp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1651955996 source:d:\codeblocks\programy\projektasd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro.h>
+	<time.h>
+
+1651929990 source:f:\codeblocks1\programiki\projekt aisd\projektasd - prawidlowy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro.h>
+
+1653639624 source:f:\codeblocks1\programiki\projekt aisd\projektasd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+
+1652645309 source:f:\codeblocks1\programiki\projekt aisd\chuj\projektasd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro.h>
+	<time.h>
+
+1653215267 source:d:\codeblocks\programy\projektasd6\projektasd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro.h>
+	<time.h>
+
+1653732653 source:d:\codeblocks\programy\projektasd\projektasd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+
